@@ -1,4 +1,4 @@
-# Oral_Cancer_Psuedotime_Analysis
+# Oral Squamous Cell Carcinoma Psuedotime Analysis
 
 **Project Overview**
 
