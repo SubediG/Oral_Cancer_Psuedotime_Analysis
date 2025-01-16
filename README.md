@@ -59,6 +59,3 @@ Further analysis of differentially expressed genes to identify potential biomark
 Integration of additional datasets to validate findings.
 Functional analysis of identified gene clusters.
 
-**Contact**
-For any questions or feedback, please open an issue or contact the repository maintainer.
-
